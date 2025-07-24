@@ -1,0 +1,6 @@
+librosa
+scikit-learn
+joblib
+pandas
+numpy
+tqdm
