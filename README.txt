@@ -10,6 +10,6 @@ Data/genres_original/ then all the genres get folders. their name is used for cl
 or just use this premade set:
 https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification/data
 
-
-Instructions:
-unless using your own data set, run predict song file to use pretrained model.
+To use:
+edit the path line on run generate_feature_set.py to the folder containing the genre folders. then run this file. 
+it will generate a .csv feature set that can be used by predict new song.py. 
