@@ -4,8 +4,8 @@ Project uses machine learning to classify audio recordings of format .wav into t
 - Supports prediction for new `.wav` files
 
 
-#Model requires data set in the below format. 
+Model trained using data set in the below format:
 
-Data/genres_original/#then all the genres get folders. their name is used for classification. 
-# or just use this premade set:
-## https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification/data
+Data/genres_original/ then all the genres get folders. their name is used for classification. 
+or just use this premade set:
+https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification/data
