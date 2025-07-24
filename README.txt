@@ -11,5 +11,5 @@ or just use this premade set:
 https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification/data
 
 To use:
-edit the path line on run generate_feature_set.py to the folder containing the genre folders. then run this file. 
-it will generate a .csv feature set that can be used by predict new song.py. 
+edit the path line on run Generate_feature_set.py to the folder containing the genre folders. then run this file. 
+it will generate a .csv feature set that can be used by predict_new_song.py, run this file.
